@@ -1,0 +1,65 @@
+2021 -07-12  18:58:12  [main] INFO  by.bsu.LibraryThreadRun - Application started
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.BookLibrary - Add books by free ready to library...
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.Book - Create new book: name = Book0, byReadyRoom = false, timeReady = 1229
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.Book - Create new book: name = Book1, byReadyRoom = false, timeReady = 7
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.Book - Create new book: name = Book2, byReadyRoom = false, timeReady = 1879
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.Book - Create new book: name = Book3, byReadyRoom = false, timeReady = 1482
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.Book - Create new book: name = Book4, byReadyRoom = false, timeReady = 879
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.BookLibrary - Add books by ready room to library...
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.Book - Create new book: name = Book5, byReadyRoom = true, timeReady = 1125
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.Book - Create new book: name = Book6, byReadyRoom = true, timeReady = 329
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.Book - Create new book: name = Book7, byReadyRoom = true, timeReady = 182
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.Book - Create new book: name = Book8, byReadyRoom = true, timeReady = 475
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.Book - Create new book: name = Book9, byReadyRoom = true, timeReady = 1405
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.BookLibrary - Add peoples readers to library...
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.PeopleReader - Create new people reader: name = People0
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.PeopleReader - Create new people reader: name = People1
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.PeopleReader - Create new people reader: name = People2
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.PeopleReader - Create new people reader: name = People3
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.PeopleReader - Create new people reader: name = People4
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.PeopleReader - Create new people reader: name = People5
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.PeopleReader - Create new people reader: name = People6
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.PeopleReader - Create new people reader: name = People7
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.PeopleReader - Create new people reader: name = People8
+2021 -07-12  18:58:12  [main] INFO  by.bsu.classes.PeopleReader - Create new people reader: name = People9
+2021 -07-12  18:58:12  [Thread-5] INFO  by.bsu.classes.PeopleReader - People5 won't come to library
+2021 -07-12  18:58:12  [Thread-3] INFO  by.bsu.classes.PeopleReader - People3 won't come to library
+2021 -07-12  18:58:12  [Thread-4] INFO  by.bsu.classes.PeopleReader - People4 won't come to library
+2021 -07-12  18:58:12  [Thread-9] INFO  by.bsu.classes.PeopleReader - People9 won't come to library
+2021 -07-12  18:58:12  [Thread-6] INFO  by.bsu.classes.PeopleReader - People6 came to library
+2021 -07-12  18:58:12  [Thread-8] INFO  by.bsu.classes.PeopleReader - People8 came to library
+2021 -07-12  18:58:12  [Thread-8] INFO  by.bsu.classes.PeopleReader - People8 left library
+2021 -07-12  18:58:12  [Thread-6] INFO  by.bsu.classes.PeopleReader - People6 left library
+2021 -07-12  18:58:12  [Thread-1] INFO  by.bsu.classes.PeopleReader - People1 came to library
+2021 -07-12  18:58:12  [Thread-1] INFO  by.bsu.classes.PeopleReader - People1 chose the book = Book8
+2021 -07-12  18:58:12  [Thread-10] INFO  by.bsu.classes.Book - People1: Book8 start is reading...
+2021 -07-12  18:58:12  [Thread-7] INFO  by.bsu.classes.PeopleReader - People7 came to library
+2021 -07-12  18:58:12  [Thread-7] INFO  by.bsu.classes.PeopleReader - People7 chose the book = Book5
+2021 -07-12  18:58:12  [Thread-2] INFO  by.bsu.classes.PeopleReader - People2 came to library
+2021 -07-12  18:58:12  [Thread-0] INFO  by.bsu.classes.PeopleReader - People0 came to library
+2021 -07-12  18:58:12  [Thread-11] INFO  by.bsu.classes.Book - People7: Book5 start is reading...
+2021 -07-12  18:58:12  [Thread-0] INFO  by.bsu.classes.PeopleReader - People0 chose the book = Book8
+2021 -07-12  18:58:12  [Thread-2] INFO  by.bsu.classes.PeopleReader - People2 chose the book = Book8
+2021 -07-12  18:58:12  [Thread-12] INFO  by.bsu.classes.Book - People0: Book8 start is reading...
+2021 -07-12  18:58:12  [Thread-1] INFO  by.bsu.classes.PeopleReader - People1 chose the book = Book1
+2021 -07-12  18:58:12  [Thread-13] INFO  by.bsu.classes.Book - People1: Book1 start is reading...
+2021 -07-12  18:58:12  [Thread-13] INFO  by.bsu.classes.Book - People1: Book1 stop reading...
+2021 -07-12  18:58:12  [Thread-12] INFO  by.bsu.classes.Book - People0: Book8 stop reading...
+2021 -07-12  18:58:12  [Thread-12] INFO  by.bsu.classes.Book - People2: Book8 start is reading...
+2021 -07-12  18:58:12  [Thread-7] INFO  by.bsu.classes.PeopleReader - People7 chose the book = Book8
+2021 -07-12  18:58:12  [Thread-14] INFO  by.bsu.classes.Book - People7: Book8 start is reading...
+2021 -07-12  18:58:12  [Thread-2] INFO  by.bsu.classes.PeopleReader - People2 chose the book = Book1
+2021 -07-12  18:58:12  [Thread-15] INFO  by.bsu.classes.Book - People2: Book1 start is reading...
+2021 -07-12  18:58:12  [Thread-15] INFO  by.bsu.classes.Book - People2: Book1 stop reading...
+2021 -07-12  18:58:12  [Thread-0] INFO  by.bsu.classes.PeopleReader - People0 chose the book = Book3
+2021 -07-12  18:58:12  [Thread-16] INFO  by.bsu.classes.Book - People0: Book3 start is reading...
+2021 -07-12  18:58:12  [Thread-12] INFO  by.bsu.classes.Book - People2: Book8 stop reading...
+2021 -07-12  18:58:12  [Thread-11] INFO  by.bsu.classes.Book - People7: Book5 stop reading...
+2021 -07-12  18:58:12  [Thread-10] INFO  by.bsu.classes.Book - People1: Book8 stop reading...
+2021 -07-12  18:58:12  [Thread-2] INFO  by.bsu.classes.PeopleReader - People2 left library
+2021 -07-12  18:58:12  [Thread-14] INFO  by.bsu.classes.Book - People7: Book8 stop reading...
+2021 -07-12  18:58:12  [Thread-1] INFO  by.bsu.classes.PeopleReader - People1 left library
+2021 -07-12  18:58:13  [Thread-7] INFO  by.bsu.classes.PeopleReader - People7 left library
+2021 -07-12  18:58:13  [Thread-0] INFO  by.bsu.classes.PeopleReader - People0 left library
+2021 -07-12  18:58:13  [Thread-16] INFO  by.bsu.classes.Book - People0: Book3 stop reading...
+2021 -07-12  18:58:16  [main] INFO  by.bsu.LibraryThreadRun - Application stopped
