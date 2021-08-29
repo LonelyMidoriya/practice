@@ -5,9 +5,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Properties;
 
-/**
- * Created by URA on 26.08.2015.
- */
+
 public class PropertiesFileUtil {
     public static Properties myProperties = new Properties();
 

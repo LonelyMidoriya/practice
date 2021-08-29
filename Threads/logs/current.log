@@ -1,3 +1,3 @@
-2021 -07-12  18:58:13  [Thread-0] INFO  by.bsu.classes.PeopleReader - People0 left library
-2021 -07-12  18:58:13  [Thread-16] INFO  by.bsu.classes.Book - People0: Book3 stop reading...
-2021 -07-12  18:58:16  [main] INFO  by.bsu.LibraryThreadRun - Application stopped
+2021 -08-29  21:35:50  [Thread-8] INFO  by.bsu.classes.PeopleReader - People8 left library
+2021 -08-29  21:35:50  [Thread-7] INFO  by.bsu.classes.PeopleReader - People7 left library
+2021 -08-29  21:35:52  [main] INFO  by.bsu.LibraryThreadRun - Application stopped
