@@ -5,9 +5,6 @@ import java.util.LinkedList;
 import java.util.Map;
 import java.util.PriorityQueue;
 
-/**
- * Created by Сергей on 07.11.2014.
- */
 public class HuffManTree {
 
     String fileAddress;

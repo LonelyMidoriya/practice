@@ -6,9 +6,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by Сергей on 07.11.2014.
- */
+
 public class SymbolCalculator {
 
     private String fileAddress;
